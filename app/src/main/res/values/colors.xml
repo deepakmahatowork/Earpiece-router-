@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="stealth_background">#0A0B0E</color>
+    <color name="stealth_surface">#14171F</color>
+    <color name="terminal_emerald">#00E676</color>
+    <color name="emerald_glow">#004D28</color>
+    <color name="crimson_coral">#FF4B4B</color>
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="amber_warning">#F59E0B</color>
+</resources>

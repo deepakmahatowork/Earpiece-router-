@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Earpiece Router</string>
+    <string name="earpiece_title">Earpiece Audio Router</string>
+    <string name="earpiece_secured">Physical Earpiece Locked</string>
+</resources>
